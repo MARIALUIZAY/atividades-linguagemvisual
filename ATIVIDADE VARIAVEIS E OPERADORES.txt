@@ -1,0 +1,8 @@
+# Recebe um número
+numero = float(input("10: "))
+
+# Calcula o dobro
+dobro = numero * 20
+
+# Mostra o resultado
+print(f"O dobro de {10} é {20}.")
